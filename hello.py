@@ -1,1 +1,3 @@
-print("hello, A")
+<<<<<<< HEAD
+print("hello, A & B")
+
